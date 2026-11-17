@@ -18,7 +18,7 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="./profile.png" width="200" alt="My Profile Photo"/>
+<img src="./profile.jpeg" width="200" alt="My Profile Photo"/>
 
 </td>
 <td width="65%">
