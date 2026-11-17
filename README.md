@@ -89,18 +89,13 @@
 
 ## 🌱 My Current Focus
 
-```python
-class AspiringAIEngineer:
-    def __init__(self):
-        self.languages = ["Python", "C", "C++"]
-        self.web_skills = ["HTML", "CSS", "JavaScript"]
-        self.current_focus = ["AI", "Machine Learning"]
-        self.dsa_platforms = ["LeetCode", "TUF"]
-        self.goal = "Become an AI/ML Engineer"
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🐍 Improving my Python programming skills.
+- 📊 Learning Data Science and Data Analytics.
+- 🧩 Practicing DSA on LeetCode and TUF.
+- 🚀 Building projects and exploring new technologies.
 
-    def learn(self):
-        return "Learning, Building and Growing 🚀"
-```
+🎯 **My Goal:** Become an AI/ML Engineer and build innovative real-world solutions.
 
 ---
 
